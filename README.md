@@ -75,18 +75,6 @@ For questions or suggestions, please open an issue or contact the maintainer.
 - Frontend setup:
   1. ```cd frontend```
   2. ```npm install```
-- Environment Configuration:
-- Create a `.env` file in the backend directory:
-  1. ```DATABASE_URL=your_database_connection_string```
-  2. ```JWT_SECRET=your_jwt_secret_key```
-  3. ```STRIPE_SECRET_KEY=your_stripe_secret_key```
-  4. ```CLOUDINARY_CLOUD_NAME=your_cloudinary_name```
-  5. ```CLOUDINARY_API_KEY=your_cloudinary_key```
-  6. ```CLOUDINARY_API_SECRET=your_cloudinary_secrety```
-- Create a .env file in the frontend directory:
-   1. ```VITE_API_BASE_URL=http://localhost:5173```
-   2. ```VITE_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key```
-
 
 
 
