@@ -71,6 +71,7 @@ For questions or suggestions, please open an issue or contact the maintainer.
 -  Install dependencies for both frontend :
 - Frontend setup:
   1. ```npm install```
+  2. ```npm run dev```
   
 
 
