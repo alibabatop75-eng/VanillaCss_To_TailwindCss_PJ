@@ -65,7 +65,9 @@ For questions or suggestions, please open an issue or contact the maintainer.
 ---
 ## 🧑‍💻 Installation & Setup
 
-1. Clone the repository: 1. `git clone https://github.com/your-username/property-rental-platform.git`2. `cd property-rental-platform`
+- Clone the repository:
+  1. `git clone https://github.com/your-username/property-rental-platform.git`
+  2. 2. `cd property-rental-platform`
 
 3. Commit your changes: `git commit -m "Add new feature"`
 4. Push to the branch: `git push origin new-feature`
