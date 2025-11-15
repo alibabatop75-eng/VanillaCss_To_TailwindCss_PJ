@@ -69,7 +69,7 @@ For questions or suggestions, please open an issue or contact the maintainer.
   1. ```git clone https://github.com/your-username/property-rental-platform.git```
   2. ```cd property-rental-platform```
 -  Install dependencies for both frontend and backendy:
--  - Clone the repository:
+- Clone the repository:
   1. ```cd backend```
   2. ```npm install```
 -  Backend setup:
