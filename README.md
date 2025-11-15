@@ -66,8 +66,8 @@ For questions or suggestions, please open an issue or contact the maintainer.
 ## 🧑‍💻 Installation & Setup
 
 - Clone the repository:
-  1. `git clone https://github.com/your-username/property-rental-platform.git`
-  2. `cd property-rental-platform`
+  1. ```git clone https://github.com/your-username/property-rental-platform.git```
+  2. ```cd property-rental-platform```
 - Clone the repository:
   1. `git clone https://github.com/your-username/property-rental-platform.git`
   2. `cd property-rental-platform
