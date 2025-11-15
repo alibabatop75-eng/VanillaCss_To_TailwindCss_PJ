@@ -68,9 +68,10 @@ For questions or suggestions, please open an issue or contact the maintainer.
 - Clone the repository:
   1. ```git clone https://github.com/your-username/property-rental-platform.git```
   2. ```cd property-rental-platform```
-- Clone the repository:
-  1. `git clone https://github.com/your-username/property-rental-platform.git`
-  2. `cd property-rental-platform
+-  Install dependencies for both frontend and backendy:
+-  Backend setup:
+  1. `cd backend`
+  2. `npm install`
 
 3. Commit your changes: `git commit -m "Add new feature"`
 4. Push to the branch: `git push origin new-feature`
