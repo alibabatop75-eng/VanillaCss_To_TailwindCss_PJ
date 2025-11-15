@@ -69,16 +69,27 @@ For questions or suggestions, please open an issue or contact the maintainer.
   1. ```git clone https://github.com/your-username/property-rental-platform.git```
   2. ```cd property-rental-platform```
 -  Install dependencies for both frontend and backendy:
-- Clone the repository:
+- Backend setup:
   1. ```cd backend```
   2. ```npm install```
--  Backend setup:
-    1.``
-    2.``
+- Frontend setup:
+  1. ```cd frontend```
+  2. ```npm install```
+- Environment Configuration:
+- Create a `.env` file in the backend directory:
+  1. ```DATABASE_URL=your_database_connection_string
+JWT_SECRET=your_jwt_secret_key
+STRIPE_SECRET_KEY=your_stripe_secret_key
+CLOUDINARY_CLOUD_NAME=your_cloudinary_name
+CLOUDINARY_API_KEY=your_cloudinary_key
+CLOUDINARY_API_SECRET=your_cloudinary_secret```
+- Create a .env file in the frontend directory:
+  1. ```VITE_API_BASE_URL=http://localhost:5000
+VITE_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key```
+ 
+
   
 
 
-3. Commit your changes: `git commit -m "Add new feature"`
-4. Push to the branch: `git push origin new-feature`
-5. Open a Pull Request
+
 
