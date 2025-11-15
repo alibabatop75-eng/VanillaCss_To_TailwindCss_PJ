@@ -84,7 +84,7 @@ For questions or suggestions, please open an issue or contact the maintainer.
   5. ```CLOUDINARY_API_KEY=your_cloudinary_key```
   6. ```CLOUDINARY_API_SECRET=your_cloudinary_secrety```
 - Create a .env file in the frontend directory:
-   1. ```VITE_API_BASE_URL=http://localhost:5000```
+   1. ```VITE_API_BASE_URL=http://localhost:5173```
    2. ```VITE_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key```
 
 
